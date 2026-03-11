@@ -66,7 +66,7 @@ go to [api.nasa.gov](https://api.nasa.gov/), sign up and you'll get a key by ema
 
 **2. put your key into the code**
 
-open `AsteroidFetcher.java` and drop it in on line 13:
+open `AsteroidFetcher.java` and drop it in on line 15:
 
 ```java
 private static final String API_KEY = "YOUR_NASA_API_KEY_HERE";
