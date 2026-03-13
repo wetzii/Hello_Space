@@ -10,7 +10,7 @@ Every time you run it, the app fetches today's near-Earth objects straight from 
 No database, no setup, no config files. Just run it and the data appears.
 
 **Use cases:**
-- You're learning Java and want a real project that actually does something cooletgetghetgregwe
+- You're learning Java and want a real project that actually does something cool
 - You want to play around with REST APIs and JSON parsing in Java
 - You're into space stuff and want a little desktop tool that gives you daily asteroid data
 - School / uni project that needs a working GUI + API integration
@@ -35,7 +35,7 @@ Rows are **red** for potentially hazardous asteroids and **green** for safe ones
 ## Download & Run
 
 ### Windows
-Grab the `Hello_Space.exe` from the [releases page](../../releases) — just double click and it starts. No Java needed, no setup.
+Grab the `Hello_Space.exe` from the [releases page](../../releases) — just double click and it starts. Requires Java 11+ to be installed on your system. If you don't have Java yet, grab it from [adoptium.net](https://adoptium.net/).
 
 ### Linux
 Binary is coming soon — for now use the jar (see below).
