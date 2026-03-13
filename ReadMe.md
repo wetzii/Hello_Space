@@ -35,13 +35,13 @@ Rows are **red** for potentially hazardous asteroids and **green** for safe ones
 ## Download & Run
 
 ### Windows
-Grab the `Hello_Space.exe` from the [releases page](../../releases) — just double click and it starts. Requires Java 11+ to be installed on your system. If you don't have Java yet, grab it from [adoptium.net](https://adoptium.net/).
+Grab the `Hello_Space.exe` from the [releases page](../../releases) — just double click and it starts. Requires Java 11+ to be installed on your system (tested on Java 23). If you don't have Java yet, grab it from [adoptium.net](https://adoptium.net/).
 
 ### Linux
 Binary is coming soon — for now use the jar (see below).
 
 ### All Platforms — JAR
-If you have Java 11+ installed you can run the jar directly:
+If you have Java 11+ installed you can run the jar directly (tested on Java 23):
 ```bash
 java -jar Hello_Space.jar
 ```
