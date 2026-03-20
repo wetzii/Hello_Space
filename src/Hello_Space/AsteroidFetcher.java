@@ -12,7 +12,7 @@ public class AsteroidFetcher {
 
     // Trage hier deinen NASA API Key ein: https://api.nasa.gov/
     // Ohne Key wird DEMO_KEY verwendet (stark limitiert: 30 Anfragen/Stunde)
-    private static final String API_KEY = "Your API KEY here";
+    private static final String API_KEY = "x6Git12b2CfyHeAmJKKrTh2iamfmKkGddhZFm9Zc";
 
     public static void fetch(Hello_Space_GUI gui, String date) throws Exception {
 
@@ -39,7 +39,7 @@ public class AsteroidFetcher {
             System.out.println("Keine Asteroiden für den Tag gefunden.");
             return;
         }
-
+        
         for (JsonElement element : asteroidsArray) {
             JsonObject a = element.getAsJsonObject();
 
